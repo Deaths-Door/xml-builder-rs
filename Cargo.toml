@@ -1,10 +1,10 @@
 [package]
-name = "xml-builder"
+name = "einfach-xml-builder"
 version = "0.1.0"
 edition = "2021"
 authors = ["Aarav Shah <aaravaditya51@gmail.com>"]
 description = "A lightweight and intuitive library for generating XML documents in Rust"
-documentation = "https://docs.rs/xml-builder"
+documentation = "https://docs.rs/einfach-xml-builder"
 readme = "README.md"
 repository = "https://github.com/Deaths-Door/xml-builder-rs/"
 homepage = "https://github.com/Deaths-Door/xml-builder-rs"
