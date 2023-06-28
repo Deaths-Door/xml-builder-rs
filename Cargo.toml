@@ -1,8 +1,19 @@
 [package]
-name = "xml-builder-rs"
+name = "xml-builder"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+authors = ["Aarav Shah <aaravaditya51@gmail.com>"]
+description = "A lightweight and intuitive library for generating XML documents in Rust"
+documentation = "https://docs.rs/xml-builder"
+readme = "README.md"
+repository = "https://github.com/Deaths-Door/xml-builder-rs/"
+homepage = "https://github.com/Deaths-Door/xml-builder-rs"
+license = "MIT OR Apache-2.0"
+keywords = ["xml", "xml-builder", "xml-generation"]
+categories = [
+    "data processing",
+    "development tools",
+    "parsing",
+    "xml",
+    "text processing",
+]
