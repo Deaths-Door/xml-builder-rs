@@ -13,7 +13,7 @@ Add the following line to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-xml_builder = "0.1.0"
+einfach_xml_builder = "0.1.0"
 ```
 
 ## Usage
