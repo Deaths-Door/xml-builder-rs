@@ -10,10 +10,3 @@ repository = "https://github.com/Deaths-Door/xml-builder-rs/"
 homepage = "https://github.com/Deaths-Door/xml-builder-rs"
 license = "MIT OR Apache-2.0"
 keywords = ["xml", "xml-builder", "xml-generation"]
-categories = [
-    "data processing",
-    "development tools",
-    "parsing",
-    "xml",
-    "text processing",
-]
